@@ -14,7 +14,7 @@
     "security",
     "appliances"
   ],
-  "version": "2.4.3",
+  "version": "2.4.4",
   "compatibility": ">=10.0.0",
   "athomForumDiscussionId": 3113,
   "homeyCommunityTopicId": 155,
@@ -32,6 +32,10 @@
       {
         "name": "Ted Tolboom",
         "email": "dTNL.Homey@gmail.com"
+      },
+      {
+        "name": "Jan Kneuper",
+        "email": "homey@kneuper-it.de"
       }
     ]
   },
